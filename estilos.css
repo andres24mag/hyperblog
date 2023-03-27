@@ -1,12 +1,10 @@
 head{
-    color: aliceblue;
+    color: blanchedalmond;
     background-color: aqua;
-    font-style: oblique;
-<<<<<<< HEAD
-=======
+    font-style: initial;
 }
 #container{
-    background-color: aqua;
+    background-color: goldenrod;
     border-radius: 50px;
->>>>>>> cabecera
+    border-color: tomato;
 }
