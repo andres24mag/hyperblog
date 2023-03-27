@@ -2,4 +2,11 @@ head{
     color: aliceblue;
     background-color: aqua;
     font-style: oblique;
+<<<<<<< HEAD
+=======
+}
+#container{
+    background-color: aqua;
+    border-radius: 50px;
+>>>>>>> cabecera
 }
