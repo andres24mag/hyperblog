@@ -1,0 +1,10 @@
+Hola
+Perros
+Sucios
+<<<<<<< HEAD
+Puercos
+=======
+Puercos
+snjcnjs
+nskcnsik
+>>>>>>> cabecera

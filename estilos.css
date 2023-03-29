@@ -1,0 +1,10 @@
+head{
+    color: blanchedalmond;
+    background-color: aqua;
+    font-style: initial;
+}
+#container{
+    background-color: goldenrod;
+    border-radius: 50px;
+    border-color: tomato 15px;
+}
